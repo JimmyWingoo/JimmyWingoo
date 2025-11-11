@@ -26,7 +26,7 @@ you're using my template!
 <!--   
   INFORMATION -->
 
-### <p align=center> JEEB | HE/HIM | ADULT </p>
+### <p align=center> JADE | HE/HIM | ADULT </p>
 
 <!-- 
   BLURB -->
