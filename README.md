@@ -26,7 +26,7 @@ you're using my template!
 <!--   
   INFORMATION -->
 
-### <p align=center> PLACEHOLDER | HE/HIM | ADULT </p>
+### <p align=center> JIMGOO | HE/HIM | ADULT </p>
 
 <!-- 
   BLURB -->
@@ -56,7 +56,18 @@ you're using my template!
 
 <!-- 
   bottom section for images if you want to add stamps/blinkies/gifs that represent you. -->
+---
 
+![star](https://files.catbox.moe/3o3abf.webp)
+    ![greg](https://files.catbox.moe/oyfaht.webp)
+        ![hong](https://files.catbox.moe/gvfs6h.webp)
+            ![don](https://files.catbox.moe/vylybk.webp)
+                ![agnela](https://files.catbox.moe/0f9s2t.png)
+                     ![donefinale](https://files.catbox.moe/4yd7ov.webp)
+                
+![heath](https://files.catbox.moe/caivoj.png)
+    ![GFreg](https://files.catbox.moe/s5r799.png)
+       
 ---
 
 ###### <p align=center> banner by Project Moon - Lobotomy Corporation </p>
